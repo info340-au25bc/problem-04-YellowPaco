@@ -83,3 +83,9 @@ footer {
         font-size: 3rem;
     }
 }
+
+@media (min-width: 1200px) {
+    body {
+        background-image: url('../img/splash-xl.jpg');
+    }
+}
