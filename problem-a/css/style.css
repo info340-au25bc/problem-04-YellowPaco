@@ -32,3 +32,13 @@ h2 {
 footer {
     display: none;
 }
+
+@media (min-width: 598px) {
+    #hamburger-menu {
+        display: none;
+    }
+
+    #social-links {
+        display: block;
+    }
+}
